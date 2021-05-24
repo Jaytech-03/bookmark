@@ -1,0 +1,75 @@
+body {
+	font-family: 'Poppins', sans-serif;
+  background: hsl(0, 0%, 98%);
+}
+
+.folder {
+	margin: 0px;
+	box-shadow: 0 0 10px 0px;
+	border-radius: 6px;
+	padding: 20px;
+	margin: 0px;
+	max-width: 350px;
+  height: 250px;
+}
+.para-0 {
+	margin: auto;
+        text-align: center!important;
+}
+.para-1 {
+	font-weight: 200;
+  margin-top: 90px;
+  font-size:2.3em;
+}
+.para-2 {
+	font-weight: 600;
+  color: hsl(234, 12%, 34%);
+    font-size:2.5em;
+
+}
+.para-3 {
+	margin-top: 20px;
+}
+.para-3-mobile {
+	display: none;
+}
+.four-box {
+	padding-top: 60px;display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: center;
+}
+h5 {
+	font-weight: 600;
+  color: hsl(234, 12%, 34%);
+}
+p {
+	color: hsl(229, 6%, 66%);
+	font-size: 15px;
+	font-weight: 400;
+}
+
+img {
+	padding-top: 15px;
+}
+.folder-a {
+	border-top: 4px solid hsl(180, 62%, 55%);
+  margin-right: 30px;
+}
+.folder-b {
+	border-top: 4px solid hsl(0, 78%, 62%);
+	margin-right: 30px;
+}
+.folder-c {
+	border-top: 4px solid hsl(34, 97%, 64%);
+	margin-top: 40px;
+}
+.folder-d {
+	border-top: 4px solid hsl(212, 86%, 64%);
+}
+.folder-a,
+.folder-d {
+	margin-top: 140px;
+}

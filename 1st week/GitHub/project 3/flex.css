@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Girassol&family=Itim&display=swap");
+
+.flex-container{
+    display: flex;
+    padding: 50px;
+}
+
+.bord{
+    border: 2px solid goldenrod;
+    background-color: goldenrod;
+    width: 20rem;
+    height: 30rem;
+    font-family: "Girassol", cursive;
+}
+#i{
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 2rem;
+    color: honeydew;
+    text-shadow: indigo;
+
+}
+
+p {
+    line-height: 30px;
+
+}
+#button1{
+    padding: 1rem;
+    color: goldenrod;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+.button{
+    margin-top: 50px;
+}
+.bord1{
+     border: 2px solid green;
+    background-color: green;
+    width: 20rem;
+    height: 30rem;
+    font-family: "Girassol", cursive;
+}
+#i1{
+   margin-left: 30px;
+    margin-top: 30px;
+    font-size: 2rem;
+    color: honeydew;
+    text-shadow:indigo; 
+}
+#h1{
+    text-shadow: lawngreen;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#lorem1{
+    display: block;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#button1{
+    width: 12rem;
+    padding: 1rem;
+    color: goldenrod;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+.button{
+    margin-top: 50px;
+}
+.bord2{
+    border: 2px solid red;
+    background-color:red;
+    width: 20rem;
+    height: 30rem;
+    font-family: "Girassol", cursive;
+}
+#i2{
+   margin-left: 30px;
+    margin-top: 30px;
+    font-size: 2rem;
+    color: honeydew;
+    text-shadow:indigo;  
+}
+#h2{
+
+    text-shadow: lawngreen;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#lorem2{
+  display: block;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#button2{
+    width: 12rem;
+    padding: 1rem;
+    color: goldenrod;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+.button1{
+    margin-top: 50px;
+}
